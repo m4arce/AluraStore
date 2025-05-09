@@ -59,8 +59,7 @@ La recomendación final se basa en un análisis integral de indicadores comercia
 1. Clona este repositorio o descarga los archivos manualmente:
 
     ```bash
-    git clone https://github.com/tu-usuario/alura-store-desempeno.git
-    cd alura-store-desempeno
+    git clone https://github.com/m4arce/AluraStore.git    
     ```
 
 2. Abre el archivo `AluraStore.ipynb` en [Google Colab](https://colab.research.google.com/) o ejecútalo localmente en Jupyter Notebook.
